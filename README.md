@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Android Development,Web Development**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter , Web Dev**
 
 - 📫 How to reach me **jagannathmestry100@gmail.com**
 
